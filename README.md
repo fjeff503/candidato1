@@ -39,3 +39,4 @@ php artisan key:generate
 ## Crear la base de datos
 
 Ejecutar el script de la base de datos
+candidato1 / script
